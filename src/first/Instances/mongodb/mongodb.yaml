@@ -1,0 +1,9 @@
+active: true
+connectionString: common.connectionString.mongodb
+label: mongodb
+maxPoolConnections: 10000
+name: mongodb
+password: null
+privilege: null
+type: MONGO_DB
+username: null
